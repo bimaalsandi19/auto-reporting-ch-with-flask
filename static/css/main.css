@@ -1,0 +1,34 @@
+body{
+    background: #cecece !important;
+}
+main{
+    margin: 10px;
+    background: white;
+    padding: 10px;
+    box-shadow: 10px 10px 10px #a1a1a1, -10px -10px 10px #a1a1a1;
+}
+header nav ul li{
+    margin-left: 20px;
+}
+table thead{
+    text-align: center;
+} 
+.result nav ul li{
+  margin-bottom: 20px;
+}
+.result nav ul li a{
+  color: whitesmoke;
+  text-decoration: none;
+}
+.recon table{
+  font-size: 11px;
+}
+.recon table thead{
+  vertical-align: middle;
+}
+#tableRecon{
+  font-size: 11px;
+}
+.filter{
+  padding: 10px 0;
+}
